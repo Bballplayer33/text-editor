@@ -20,14 +20,14 @@ App is fully functional on Heroku go to the website below
 [This App is Live!](https://ea-text-edit.herokuapp.com/)
 
 ## Tech Used
-Manifest
-Service Workers
-IndexedDB
-Cache
-Workbox
-Webpack
-Express
-Deployed on Heroku
+- Manifest
+- Service Workers
+- IndexedDB
+- Cache
+- Workbox
+- Webpack
+- Express
+- Deployed on Heroku
 
 ## Mockup
 Snap of the working application
